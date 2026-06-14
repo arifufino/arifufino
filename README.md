@@ -1,4 +1,4 @@
-#💫 About Me:
+# 💫 About Me:
 Hi, i'm ariel paz, a software development student with an intermediate level and a strong interest in building real applications.<br/>
 I'm focused on frontend, backend, and database development, always aiming to write clean and practical code.<br/>
 I've worked on academic and personal projects such as cruds, a virtual notebook, and terminal-based applications.<br/>
