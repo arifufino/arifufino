@@ -1,9 +1,10 @@
-# 💫 About Me:
-👋 hi, i'm ariel paz, a software development student with an intermediate level and a strong interest in building real applications.<br/>
-💡 i'm focused on frontend, backend, and database development, always aiming to write clean and practical code.<br/>
-📌 i've worked on academic and personal projects such as cruds, a virtual notebook, and terminal-based applications.<br/>
-📚 i'm currently improving my workflow with neovim and preparing to deepen my knowledge in c and linux.<br/>
-💼 i'm open to opportunities that help me grow professionally and gain real-world experience.
+#💫 About Me:
+Hi, i'm ariel paz, a software development student with an intermediate level and a strong interest in building real applications.<br/>
+I'm focused on frontend, backend, and database development, always aiming to write clean and practical code.<br/>
+I've worked on academic and personal projects such as cruds, a virtual notebook, and terminal-based applications.<br/>
+
+📚I'm currently improving my workflow with neovim and preparing to deepen my knowledge in c and linux.<br/>
+💼I'm open to opportunities that help me grow professionally and gain real-world experience.
 
 
 ## 🌐 Socials:
